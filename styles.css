@@ -1,0 +1,36 @@
+/*CSS do Curriculo*/
+/*CSS Cabeçalho*/
+.h-principal{
+    text-align: center;
+}
+.i-principal{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+/*CSS Resumo*/
+.r-resumo{
+    text-align: center;
+}
+
+/*Barra de navegação*/
+.navbar{
+    align-items: center;
+    text-align: center;
+    color: #000;
+    padding: 30px;
+}
+
+#navbar a:hover{
+    color: #C1B696;
+}
+/* Formação Complementar*/
+.f-complementar{
+    text-align: center;
+}
+
+/*Fomração Academica*/
+.c-principal{
+    text-align: center;
+    
+}
